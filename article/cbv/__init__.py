@@ -1,0 +1,1 @@
+from article.cbv.views import generic_views, views
